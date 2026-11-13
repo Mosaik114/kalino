@@ -57,7 +57,7 @@ Folders are organised by purpose. Code that two areas need becomes a shared buil
 ### Content is data, not code
 All learning content lives in JSON files, organised by the language being learned and by course; all interface text lives in Apple's String Catalog. The general building blocks (lessons, exercises, vocabulary, cards, reader) make no assumption about a specific language pair. Script, writing direction and fonts come from a language model rather than being hard-coded.
 
-*Why:* Arabic, German and English are planned both as the language you learn and as the language you learn from. Adding a pair should mean adding content, not touching code.
+*Why:* Arabic, German and English each work both as the language you learn and as the language you learn from: nine courses on one codebase. Adding a pair means adding content, not touching code.
 
 ### A shared vocabulary
 Every word exists once, with its parts, its root, its learning state and the sentences it appeared in. Lessons, the library and flashcards all read from and write to the same vocabulary.

@@ -1,8 +1,8 @@
 # Kalino
 
-**An iPhone app that teaches Modern Standard Arabic, from the first letter to reading real texts, inside a hand-painted, animated world.**
+**An iPhone app for learning languages, from the first letter to reading real texts, inside a hand-painted, animated world. Arabic, German and English, each learnable from any of the three.**
 
-For most learners, the Arabic script is the first wall: letters change shape depending on their position, short vowels are tiny marks above and below the line, and many courses treat the script as something to get past quickly. Kalino starts exactly there. Every new idea is introduced as a short animated scene, practised in small, varied exercises and brought back at the right time, so reading Arabic becomes something you can actually do rather than something you memorise. The whole app is drawn in its own ink-and-watercolour style and led by a small golden character called Nuqta.
+Most language apps start with words and skip the foundation: the alphabet and how to actually read. For a script like Arabic this is the first wall: letters change shape depending on their position and short vowels are tiny marks above and below the line. Kalino starts exactly there, in every course. Every new idea is introduced as a short animated scene, practised in small, varied exercises and brought back at the right time, so reading becomes something you can actually do rather than something you memorise. The whole app is drawn in its own ink-and-watercolour style and led by a small golden character called Nuqta.
 
 > Status: in TestFlight · App Store release planned · iOS 18+, iPhone (portrait)
 
@@ -10,7 +10,8 @@ For most learners, the Arabic script is the first wall: letters change shape dep
 
 ## Features
 
-- **Learn to read Arabic from zero.** Letters, joining forms, vowel marks and pronunciation, each introduced by a narrated, animated explanation before it is practised.
+- **Three languages, nine courses.** Arabic, German and English, both as the language you learn and as the language you learn from, so every one of the three can be learned from every one of the three.
+- **Learn to read from zero.** Letters, sounds and pronunciation, and for Arabic also joining forms and vowel marks, each introduced by a narrated, animated explanation before it is practised.
 - **A learning path on a painted map.** Lessons live in places on an illustrated map; checkpoints make sure a topic has really settled before the path moves on.
 - **Varied, playful exercises.** Listening, recognising, reading and sorting tasks with immediate, friendly feedback. Every task reads its question aloud.
 - **Listen and repeat.** Learners can record themselves and hear their voice right next to the model pronunciation. The recording never leaves the device.
@@ -19,7 +20,7 @@ For most learners, the Arabic script is the first wall: letters change shape dep
 - **Motivation without manipulation.** Levels, a daily streak, a weekly overview and statistics based on real practice time. Coins are earned only by learning and are never sold; there are no loot boxes and nothing random to buy.
 - **Family-friendly.** The app asks once whether an adult or a child is learning; in child mode there are no purchase prompts.
 - **Accessible.** VoiceOver labels for everything tappable, Reduce Motion support, larger text sizes, layouts from the smallest to the largest current iPhones, and a right-to-left-ready interface.
-- **Built for several languages.** Arabic, German and English are the core languages, as the language you learn and as the language you learn from. Content is data, so a new language pair is new content, not new code.
+- **Ready for more languages.** Content is data, so a new language pair is new content, not new code.
 - **Optional subscription.** Extras such as unlimited lives; the core path stays fully learnable without it.
 
 ## Screenshots
@@ -121,10 +122,10 @@ In practice that means:
 | Version | Focus | Status |
 |---|---|---|
 | — | Internal builds | ✅ Running on TestFlight |
-| 1.0 | Learn to read Arabic | 🔄 Polishing for App Store release |
+| 1.0 | Learn to read: the alphabet courses | 🔄 Polishing for App Store release |
 | 2.0 | Reading & review: the Library and flashcards | 🔄 In development |
-| 3.0 | Quran section | Planned |
-| 4.0 | More languages | Planned |
+| 3.0 | Quran section in the Arabic course | Planned |
+| Later | More languages | Planned |
 
 ## Contact
 

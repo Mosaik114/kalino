@@ -25,13 +25,13 @@ Most language apps start with words and skip the foundation: the alphabet and ho
 
 ## Screenshots
 
-> Screenshots and a short screen recording of the current build will be added here soon.
+Current TestFlight build, English interface, course "Arabic for English speakers".
 
-<!--
-| Map | Animated explanation | Exercise | Flashcard | Library |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/images/map.png" width="180"> | <img src="docs/images/explanation.gif" width="180"> | <img src="docs/images/exercise.png" width="180"> | <img src="docs/images/flashcard.png" width="180"> | <img src="docs/images/library.png" width="180"> |
--->
+| Animated explanation | Learning path | Exercise | Flashcards |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/explanation.gif" width="200" alt="Animated explanation: Nuqta turns an empty curve into the letter baa"> | <img src="docs/images/map.png" width="200" alt="Painted learning map with the next lessons"> | <img src="docs/images/exercise.png" width="200" alt="Listening exercise with Arabic letter tiles"> | <img src="docs/images/flashcard.png" width="200" alt="Flashcard review with an Arabic letter"> |
+| **Card progress** | **The Library** | **Reader** | |
+| <img src="docs/images/card-progress.png" width="200" alt="Overview of how well each card is known"> | <img src="docs/images/library.png" width="200" alt="Bookshelf with graded stories"> | <img src="docs/images/reader.png" width="200" alt="Reading a story with tappable Arabic words"> | |
 
 ## Architecture
 

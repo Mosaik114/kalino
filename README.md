@@ -27,11 +27,20 @@ Most language apps start with words and skip the foundation: the alphabet and ho
 
 Current TestFlight build, English interface, course "Arabic for English speakers".
 
-| Animated explanation | Learning path | Exercise | Flashcards |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/images/explanation.gif" width="200" alt="Animated explanation: Nuqta turns an empty curve into the letter baa"> | <img src="docs/images/map.png" width="200" alt="Painted learning map with the next lessons"> | <img src="docs/images/exercise.png" width="200" alt="Listening exercise with Arabic letter tiles"> | <img src="docs/images/flashcard.png" width="200" alt="Flashcard review with an Arabic letter"> |
-| **Card progress** | **The Library** | **Reader** | |
-| <img src="docs/images/card-progress.png" width="200" alt="Overview of how well each card is known"> | <img src="docs/images/library.png" width="200" alt="Bookshelf with graded stories"> | <img src="docs/images/reader.png" width="200" alt="Reading a story with tappable Arabic words"> | |
+<p align="center">
+  <img src="docs/images/explanation.gif" width="200" alt="Animated explanation: Nuqta turns an empty curve into the letter baa">
+  <img src="docs/images/map.png" width="200" alt="Painted learning map with the next lessons">
+  <img src="docs/images/exercise.png" width="200" alt="Listening exercise with Arabic letter tiles">
+  <img src="docs/images/flashcard.png" width="200" alt="Flashcard review with an Arabic letter">
+</p>
+<p align="center"><em>Animated explanation · Learning path · Exercise · Flashcards</em></p>
+
+<p align="center">
+  <img src="docs/images/card-progress.png" width="200" alt="Overview of how well each card is known">
+  <img src="docs/images/library.png" width="200" alt="Bookshelf with graded stories">
+  <img src="docs/images/reader.png" width="200" alt="Reading a story with tappable Arabic words">
+</p>
+<p align="center"><em>Card progress · The Library · Reader</em></p>
 
 ## Architecture
 
